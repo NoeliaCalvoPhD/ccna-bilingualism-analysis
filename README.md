@@ -129,5 +129,3 @@ If you use this code or reproduce this analysis, please cite the associated publ
 # Author
 
 Noelia Calvo
-
-Canadian Consortium on Neurodegeneration in Aging (CCNA)
