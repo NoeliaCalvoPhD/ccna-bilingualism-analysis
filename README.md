@@ -1,4 +1,4 @@
-# CCNA Bilingualism Resilience Analysis
+# CCNA Bilingualism/biological sex Resilience Analysis
 
 This repository contains a reproducible statistical analysis pipeline examining relationships between bilingualism, biological sex, and dementia-related outcomes using data from the COMPASS-ND cohort of the Canadian Consortium on Neurodegeneration in Aging (CCNA).
 
