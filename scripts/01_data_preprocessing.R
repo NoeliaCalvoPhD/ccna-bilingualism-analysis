@@ -19,7 +19,7 @@ data_clean <- data_clean %>%
   mutate(
     Sex = as.factor(Sex),
     Bilingualism = as.factor(Bilingualism)
-  )
+  )  ###please add relevant neuropsychological, and clinical variables######
 
 write_csv(data_clean, "data/processed/neuro_clean.csv")
 
