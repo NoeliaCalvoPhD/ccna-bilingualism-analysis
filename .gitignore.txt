@@ -1,0 +1,16 @@
+# Ignore raw human data
+data/raw/*
+
+# Ignore processed datasets
+data/processed/*
+
+# Ignore results
+results/*
+
+# Ignore R temporary files
+.Rhistory
+.RData
+
+# Ignore system files
+.DS_Store
+Thumbs.db
